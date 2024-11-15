@@ -4,4 +4,4 @@ This repository features my completed models, showcasing both the code and a GIF
 
 [Book](https://github.com/SantaFeInstitute/ABMA/tree/master/ch1)
 
-![Young and R. L. Bettinger](./young-and-bettingers-simulation-of-dispersal/NetLogo_5fYs6VsV3e.gif)
+![Young and R. L. Bettinger](./young-and-bettinger-human-dispersal-model/NetLogo_5fYs6VsV3e.gif)
